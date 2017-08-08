@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>loaction.xcscheme</key>
+		<key>LocationManger.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5C437C741EE6515600A084C8</key>
+		<key>A6F1058D1F3987C0007CB86B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5C437C881EE6515600A084C8</key>
+		<key>A6F105A61F3987C0007CB86B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A6F105B11F3987C0007CB86B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
